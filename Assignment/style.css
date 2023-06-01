@@ -1,0 +1,52 @@
+/* CSS Document */
+
+body {
+	margin: auto;
+	height: 500px;
+	padding: 20px;
+}
+
+button{
+    background-color: rgb(180, 70, 97);
+    border: 1px solid #336699;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 5px;
+}
+
+button:hover{
+    background-color: #336699;
+    color: #ffffff;
+    border-radius: 7px;
+}
+button a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+button a:hover{
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 7px;
+}
+p{
+    font-size: 17px; 
+}
+
+#header {
+	width: 700px;
+	color: rgb(180, 70, 97);
+	font-size: 32px;
+	padding: 10px 10px 10px 0px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #336699;
+}
+
+#footer {
+	border-top: 1px solid #336699;
+	margin-top: 20px;
+	color: #336699;
+	padding-top: 10px;	
+}
